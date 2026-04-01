@@ -7,7 +7,7 @@
 
 - [ ] Symphony を導入する(#1)
 - [ ] Linear を導入(アカウントの登録)する(#2)
-- [ ] Ollama を導入する(#3)
+- [x] Ollama を導入する(#3)
 - [ ] DevBox を導入する(#7)
 
 ## 1. Symphony の導入
