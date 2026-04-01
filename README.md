@@ -1,2 +1,2 @@
 # HelloWorld
-Learn how to use git.
+コードを打たない開発
