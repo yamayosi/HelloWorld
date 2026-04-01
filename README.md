@@ -7,17 +7,19 @@
 ## ToDo
 
 - [ ] Symphony を導入する(#1)
-- [ ] Linear を導入(アカウントの登録)する(#2)
+- [x] Linear を導入(アカウントの登録)する(#2)
 - [x] Ollama を導入する(#3)
 - [ ] DevBox を導入する(#7)
 
 ## 1. Symphony の導入
 
 - [公式](https://github.com/openai/symphony/tree/main)
+- 画面が出るところまでは進めたが、codexが必須（の筈）
 
 ## 2. Linear の導入
 
 - [公式](https://linear.app/)
+- `https://linear.app/takoyaki/projects/all`にアカウントを作成した
 
 ## 3. llama の導入
 
